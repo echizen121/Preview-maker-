@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "test": "bash scripts/check.sh"
+  },
+  "devDependencies": {}
+}
