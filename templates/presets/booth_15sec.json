@@ -1,0 +1,20 @@
+{
+  "project_name": "product_001",
+  "background": "templates/background/sample_gray.png",
+  "motion": "projects/product_001/motion.webm",
+  "bgm": "",
+  "output": "projects/product_001/output/preview_15sec.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 15,
+  "model_x": 960,
+  "model_y": 540,
+  "model_scale": 1.0,
+  "motion_start": 0,
+  "motion_end": "",
+  "bgm_start": 0,
+  "bgm_end": "",
+  "bgm_volume": 0.6,
+  "video_bitrate": "6000k"
+}

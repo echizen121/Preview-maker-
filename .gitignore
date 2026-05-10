@@ -1,0 +1,37 @@
+# Python / local environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# OS / browser metadata
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+
+# Runtime output and preview caches
+projects/**/output/*
+projects/**/preview_cache/*
+projects/**/alpha_cache/*
+
+# User-provided project media
+projects/**/*.mov
+projects/**/*.mkv
+projects/**/*.mp4
+projects/**/*.webm
+
+# User-provided templates
+templates/background/*
+!templates/background/sample_gray.png
+!templates/background/sample_blue.png
+templates/bgm/*
+
+# Local exchange folder
+やり取り用ファイル/
